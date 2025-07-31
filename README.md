@@ -202,6 +202,43 @@ _Advanced machine learning model development, training, and evaluation process_
 **Original Authors**: Candanedo, L.M., Feldheim, V., Deramaix, D.
 **Publication**: "Data driven prediction models of energy use of appliances in a low-energy house"
 
+## 🔗 Project Links & Resources
+
+### **Required Submission Links**
+
+1. **📂 GitHub Repository**: `[TO BE CREATED]`
+
+   ```
+   Steps to create:
+   1. Go to github.com and create account if needed
+   2. Create new repository named "household-energy-prediction"
+   3. Upload all project files (energy.ipynb, datasets, README.md, etc.)
+   4. Copy the repository URL here
+   ```
+
+2. **📊 Dataset Source**: [https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
+
+   - Original UCI ML Repository dataset
+   - 19,735 records of household energy consumption
+   - Environmental and weather sensor data
+
+3. **📈 Power BI Dashboard**: `[TO BE PUBLISHED]`
+   ```
+   Steps to publish:
+   1. Open Pro.pbix in Power BI Desktop
+   2. Sign in to Power BI Service (app.powerbi.com)
+   3. Click "Publish" and select workspace
+   4. Go to Power BI Service → Find your report → Share → Copy link
+   5. Paste the sharing link here
+   ```
+
+### **Additional Resources**
+
+- **📧 Contact**: charmingesther2@gmail.com
+- **🏫 Institution**: Adventist University of Central Africa (AUCA)
+- **👨‍🏫 Lecturer**: Maniraguha Eric
+- **📅 Submission Date**: July 29, 2025
+
 ---
 
 **🎓 This capstone project demonstrates advanced machine learning capabilities with practical business applications, meeting all academic requirements for the Big Data Analytics program at AUCA.**
